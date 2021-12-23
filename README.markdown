@@ -2,4 +2,4 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/markach151/pen/zYwKYOK](https://codepen.io/markach151/pen/zYwKYOK).
 
-<img width="917" alt="product-landing-page" src="https://user-images.githubusercontent.com/84886088/147169674-e52dc379-a714-4277-ae97-ced38b5680a2.PNG">
+<img width="910" alt="my" src="https://user-images.githubusercontent.com/84886088/147169758-aa7028f3-4ead-4ca7-a530-f20858495b38.PNG">
